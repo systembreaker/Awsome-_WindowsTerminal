@@ -8,4 +8,3 @@
 6. Open Windows Terminal And Choose  Right -Top Settings 
 7. Create Folder Here "C:\Users\your Name\Documents\PowerShell" If it is Not Exist And Name IT PowerShell.
 8. OR Copy The Folder From My Repository And Put it inside This Path C:\Users\your Name\Documents
-9. 
